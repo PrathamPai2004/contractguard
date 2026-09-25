@@ -1,6 +1,5 @@
-@"
 venv/
 .venv/
 __pycache__/
 *.pyc
-"@ | Out-File -Encoding utf8 .gitignore
+*.egg-info/
