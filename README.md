@@ -1,5 +1,3 @@
-# contractguard
-
 # ContractGuard
 
 ContractGuard is a developer tool for **FastAPI applications** that helps you detect and manage API contract changes.
