@@ -34,6 +34,4 @@ and more importantly:
 - Designed specifically for FastAPI projects
 - Simple CLI workflow
 
----
 
--- TO BE LAUNCHED SOON
